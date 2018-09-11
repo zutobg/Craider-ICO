@@ -33,6 +33,8 @@ Following is test results that we have
   8. npm install chai-bignumber
   9. Run "truffle.cmd test ./test/CraiderToken.erc20.js"
   
+![RAID token-test-suite results](docs/token-test-suite-results.png)
+
 ## Authors
 
 [![Powered by NewCryptoBlock](images/newcryptoblock.png)](https://www.newcryptoblock.io)
